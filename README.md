@@ -38,14 +38,49 @@
 |/clanadmin remholo <ГОЛОГРАММА>        |Удалить голограмму с топом по банку клана|
 |/clanadmin disband <ТЕГ>      |Удалить любой клан|
 
-### Доступные голограммы:
+## Доступные голограммы:
 
  1. Bank - топ по казне клана
  2. Exp - топ по опыту клана
  3. Level - топ по уровню клана
  4. Members - топ по участникам клана
-![ФОТО ТОПОВ КЛАНА](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/holotop.png)
-
+![ТОПЫ КЛАНА](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/holotop.png)
+## GUI 
+![GUI КЛАНА](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/gui.png)
+## Ивенты 
+Для каждого ивента имеется своя шкала прогресса. После победы показывает победителя.
+![PROGRESS BAR](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/demonBAR.png)
+![WIN BAR](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/winBar.png)
+### Красный демон
+![enter image description here](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/demonMOB.png)
+#### Способности:
+ ##### Режим ярости
+Включается когда у демона остаётся меньше 300 HP и длится 10 секунд (Настраивается)
+ В режиме ярости демон выбирает себе цель и начинает носится за ней нанося урон.
+#####  Атака по радиусу
+Демон наносит урон по игрокам в радиусе от него.
+##### Ускорение
+Демон выбирает цель, ускоряется в ее сторону и наносит урон.
+##### Призыв друидов
+Демон призывает вокруг друидов.
+### Ведьма
+![enter image description here](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/mag.png)
+#### Способности:
+##### Выстрелы 
+Ведьма стреляет стрелами на откидывание и уроном.
+##### Подкидывание 
+Ведьма подкидывает игроков в радиусе и резко бросает их на землю.
+##### Призыв друидов
+Ведьма призывает вокруг друидов.
+### Восстание
+![enter image description here](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/Insurrection.png) 
+Зомби вылезают из под земли в определенной точке у раках с хорошими мечами.
+## Placeholders
+%clan_tag% - вернет тег клана с цветовым кодом.
+%clan_id% - вернет тег клана без цветового кода.
+%clan_participant% - вернет роль в клане.(Глава, модератор, участник)
+%clan_exp% - вернет опыт клана.
+%clan_level% - вернет уровень клана.
 ## Конфиг
 ```no-highlight
 Preffix: "&dMSCClans&7»"
