@@ -49,7 +49,7 @@
 ![GUI КЛАНА](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/gui.png)
 ## Ивенты 
 Для каждого ивента имеется своя шкала прогресса. После победы показывает победителя.
-![PROGRESS BAR](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/demonBAR.png)
+![PROGRESS BAR](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/demonBAR.png) \n
 ![WIN BAR](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/winBar.png)
 ### Красный демон
 ![enter image description here](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/demonMOB.png)
