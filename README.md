@@ -49,7 +49,8 @@
 ![GUI КЛАНА](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/gui.png)
 ## Ивенты 
 Для каждого ивента имеется своя шкала прогресса. После победы показывает победителя.
-![PROGRESS BAR](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/demonBAR.png) \n
+![PROGRESS BAR](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/demonBAR.png)
+
 ![WIN BAR](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/winBar.png)
 ### Красный демон
 ![enter image description here](https://github.com/Lairon1/MSCClans-wiki/blob/main/images/demonMOB.png)
@@ -77,10 +78,15 @@
 Зомби вылезают из под земли в определенной точке у раках с хорошими мечами.
 ## Placeholders
 %clan_tag% - вернет тег клана с цветовым кодом.
+
 %clan_id% - вернет тег клана без цветового кода.
+
 %clan_participant% - вернет роль в клане.(Глава, модератор, участник)
+
 %clan_exp% - вернет опыт клана.
+
 %clan_level% - вернет уровень клана.
+
 ## Конфиг
 ```no-highlight
 Preffix: "&dMSCClans&7»"
